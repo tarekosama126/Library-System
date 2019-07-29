@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1511630111 source:f:\d\library\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Untitled1.h"
+	<string.h>
+
+1511634897 f:\d\library\untitled1.h
+	<stdio.h>
+	<stdlib.h>
+
+1511646380 source:f:\d\library\untitled1.c
+	<stdio.h>
+	<stdlib.h>
+	"Untitled1.h"
+
+1511802981 source:c:\users\tarek osama\downloads\library\library\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Untitled1.h"
+	<string.h>
+
+1511812896 c:\users\tarek osama\downloads\library\library\untitled1.h
+	<stdio.h>
+	<stdlib.h>
+
+1511808906 source:c:\users\tarek osama\downloads\library\library\untitled1.c
+	<stdio.h>
+	<stdlib.h>
+	"Untitled1.h"
+	<windows.h>
+
+1386353378 c:\users\tarek osama\downloads\library\library\conio2.h
+	<conio.h>
+	<windows.h>
+

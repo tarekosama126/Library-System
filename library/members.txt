@@ -1,0 +1,5 @@
+osama,tarek,4756,20,shatby,alexandria,01127894944,19,tarek1998@yahoo.com
+ashraf,ather,5231,15,bokla,alexandria,01257896345,20,ather_1998@gmail.com
+mohamed,ahmed,4196,30,louran,alexandria,01258963478,25,ahmed@hotmail.com
+walid,seif,4600,14,mohram bek,alexandria,01238549632,12,seif.walid@yahoo.com
+hassan,ahmed,4963,25,seiouf,alexandria,01473698521,24,ahmed@gmail.com

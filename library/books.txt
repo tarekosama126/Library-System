@@ -1,0 +1,7 @@
+a tale of two cities,1438-5627-1982-9,20,charles dickens,champan and hall,novel,15,15/10/2010
+the tempest,1234-5678-9658-9,25,willam shakespeare,dar el nasher,novel,20,20/6/2000
+c programming,8521-8523-6974-8,20,dennis ritchie,el ahram,science,15,14/8/2012
+C++ programming,2589-8523-9658-7,25,bjarne stroustrup,eltahrir,science,25,10/2/1998
+oliver twist,2654-7891-9624-5,25,charles dickens,elahram,novel,20,25/4/2015
+harry potter,3589-7452-9651-8,5,nagyeb mahgouz,dar elsalam,fiction,3,13/8/2012
+game of thrones,9523-3657-8745-5,10,george,elahram,story,8,25/2/2012

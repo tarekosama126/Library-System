@@ -1,0 +1,158 @@
+# depslib dependency file v1.0
+1511630111 source:f:\d\library\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Untitled1.h"
+	<string.h>
+
+1511722695 f:\d\library\untitled1.h
+	<stdio.h>
+	<stdlib.h>
+
+1511889096 source:f:\d\library\untitled1.c
+	<stdio.h>
+	<stdlib.h>
+	"Untitled1.h"
+
+1511630111 source:d:\library\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Untitled1.h"
+	<string.h>
+
+1512051566 d:\library\untitled1.h
+	<stdio.h>
+	<stdlib.h>
+
+1512052901 source:d:\library\untitled1.c
+	<stdio.h>
+	<stdlib.h>
+	"Untitled1.h"
+
+1511630111 source:c:\users\m\desktop\library\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Untitled1.h"
+	<string.h>
+
+1512051566 c:\users\m\desktop\library\untitled1.h
+	<stdio.h>
+	<stdlib.h>
+
+1512052992 source:c:\users\m\desktop\library\untitled1.c
+	<stdio.h>
+	<stdlib.h>
+	"Untitled1.h"
+
+1512487468 source:c:\users\tarek osama\downloads\library (1)\library\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Untitled1.h"
+	<string.h>
+	<ctype.h>
+
+1512491736 c:\users\tarek osama\downloads\library (1)\library\untitled1.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1512498915 source:c:\users\tarek osama\downloads\library (1)\library\untitled1.c
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	"Untitled1.h"
+	<ctype.h>
+	<windows.h>
+
+1512487468 source:c:\users\tarek osama\desktop\librarysemifinish\library (1)\library\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Untitled1.h"
+	<string.h>
+	<ctype.h>
+
+1513103223 c:\users\tarek osama\desktop\librarysemifinish\library (1)\library\untitled1.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1513105077 source:c:\users\tarek osama\desktop\librarysemifinish\library (1)\library\untitled1.c
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	"Untitled1.h"
+	<ctype.h>
+	<windows.h>
+
+1512487468 source:d:\project\library (1)\library\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Untitled1.h"
+	<string.h>
+	<ctype.h>
+
+1514013058 d:\project\library (1)\library\untitled1.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1514027873 source:d:\project\library (1)\library\untitled1.c
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	"Untitled1.h"
+	<ctype.h>
+	<windows.h>
+
+1512487468 source:f:\d\project\library (1)\library\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Untitled1.h"
+	<string.h>
+	<ctype.h>
+
+1514051484 f:\d\project\library (1)\library\untitled1.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1514051919 source:f:\d\project\library (1)\library\untitled1.c
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	"Untitled1.h"
+	<ctype.h>
+	<windows.h>
+
+1512487468 source:c:\users\hp_pc\desktop\library\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Untitled1.h"
+	<string.h>
+	<ctype.h>
+
+1514064275 c:\users\hp_pc\desktop\library\untitled1.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1514061140 source:c:\users\hp_pc\desktop\library\untitled1.c
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	"Untitled1.h"
+	<ctype.h>
+	<windows.h>
+
+1512487468 source:c:\users\hp_pc\desktop\project_4566_v2\library\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Untitled1.h"
+	<string.h>
+	<ctype.h>
+
+1514064275 c:\users\hp_pc\desktop\project_4566_v2\library\untitled1.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
